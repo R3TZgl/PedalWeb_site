@@ -1,0 +1,10 @@
+* {
+
+}
+body {
+    background-color: rgb(5, 4, 17);    
+}
+
+nav ul li a {
+    color: aliceblue;
+}
