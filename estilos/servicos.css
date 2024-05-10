@@ -56,13 +56,16 @@ li a{
     text-decoration: none;
     color: rgb(255, 0, 76);
     transition: 0.6s;
-
 }
 li a:hover{
     text-decoration: none;
     color: rgb(255, 255, 255);
 }
 
+.servicos li{
+    color: rgb(255, 0, 76);
+    display: block;
+}
 #first{
     background-color: rgb(255, 255, 255);
     margin-left: 0;
