@@ -17,7 +17,7 @@ body{
 header img{
     width: 100%;
 }
-li{
+#inicio ul li{
     display: inline;
 }
 #inicio{
