@@ -17,7 +17,7 @@ body{
 header img{
     width: 100%;
 }
-li{
+#inicio ul li{
     display: inline;
 }
 #inicio{
@@ -123,7 +123,7 @@ span a:hover{
 
 /*Segunda parte*/
 
-#sobre h2{
+#servicos h2{
     color: rgb(255, 255, 255);
     font-size: 30px;
     margin: 1%;
