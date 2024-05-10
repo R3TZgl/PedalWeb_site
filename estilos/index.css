@@ -38,7 +38,7 @@ li{
     font-size: 30px;
     margin: 1%;
     margin-right: 10%;
-    border-bottom: outset 3px black;
+    border-bottom: outset 3px rgb(255, 0, 76);
 }
 #scroll{
     position: fixed;

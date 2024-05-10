@@ -65,6 +65,7 @@ li a:hover{
 .servicos li{
     color: rgb(255, 0, 76);
     display: block;
+    text-shadow: 2px 2px 30px black;
 }
 #first{
     background-color: rgb(255, 255, 255);
@@ -131,7 +132,7 @@ span a:hover{
     font-size: 30px;
     margin: 1%;
     margin-right: 10%;
-    border-bottom: outset 3px black;
+    border-bottom: outset 3px rgb(255, 0, 76);
 }
 
 /*Terceira parte*/
