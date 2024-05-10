@@ -101,11 +101,14 @@ section{
     padding: 1%;
     box-shadow: -8px 8px 50px rgba(155, 5, 5, 0.158);
 }
+#underline{
+    display: block;
+}
 .texto h2{
     color: white;
     padding-right: 15%;
 }
-#menu h2{
+#clientes h2{
     color: rgb(255, 0, 76);
     font-size: 30px;
     margin: 1%;
@@ -127,7 +130,7 @@ p{
     width: 15em;
     height: 15em;
     margin: 2%;
-    border-radius: 12%;
+    border-radius: 50%;
 }
 .img{
     display: flex;
