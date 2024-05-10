@@ -113,7 +113,8 @@ p{
     margin-top: 1%;
 }
 #logo{
-    width: 20%;
+    width: 15em;
+    height: 15em;
     margin: 2%;
     border-radius: 12%;
 }
@@ -125,7 +126,7 @@ p{
     box-shadow: 3px 1px 10px rgba(0, 0, 0, 0.616);
 }
 .imagem{
-    display: flex;
+    display: inline;
 }
 span a{
     color: rgb(255, 0, 76);
