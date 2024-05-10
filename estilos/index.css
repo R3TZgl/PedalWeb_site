@@ -137,7 +137,7 @@ p{
     box-shadow: 3px 1px 10px rgba(0, 0, 0, 0.616);
 }
 .imagem{
-    display: inline;
+    display: flex;
 }
 span a{
     color: rgb(255, 0, 76);
