@@ -17,6 +17,9 @@ body{
 header img{
     width: 100%;
 }
+li{
+    display: inline;
+}
 #inicio{
     list-style-type: none;
     overflow: hidden;
