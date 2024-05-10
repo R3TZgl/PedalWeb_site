@@ -111,17 +111,6 @@ p{
     border-radius: 10px;
     padding:5px;
 }
-#eu{
-    width: 300px;
-    margin: 2%;
-    border-radius: 20px;
-    border: groove;
-    border-color: rgb(80, 65, 119);
-}
-#eu:hover{
-    animation: onda 0.2s ;
-    box-shadow: -1px 1px 30px rgba(250, 94, 255, 0.336);
-}
 .img{
     display: flex;
 }
@@ -132,11 +121,6 @@ span a:hover{
     color: #EA8CD2;
 }
 
-#pingu{
-    width: 80px;
-}
-
-
 /*Segunda parte*/
 
 #sobre h2{
@@ -144,64 +128,6 @@ span a:hover{
     font-size: 30px;
     margin: 1%;
 }
-#linguagens{
-    margin-left: 35px;
-    display: inline;
-    background-color: rgb(119, 117, 126);
-    border-radius: 20px;
-}
-#js{
-    width:70px;
-}
-#js:hover{
-    position: relative;
-    animation-name: giro;
-    animation-duration: 0.3s;
-}
-
-#html{
-    width: 50px;
-    margin-bottom: 4px;
-}
-#html:hover{
-    position: relative;
-    animation-name: giro;
-    animation-duration: 0.3s;
-}
-
-#css{
-    width: 50px;
-    margin-bottom: 4px;
-    margin-left: 5px;
-}
-#css:hover{
-    position: relative;
-    animation-name: giro;
-    animation-duration: 0.3s;
-}
-
-#py{
-    width: 70px;
-    margin-bottom: 1px;
-    margin-left: 2px;
-}
-#py:hover{
-    position: relative;
-    animation-name: giro;
-    animation-duration: 0.3s;
-}
-
-#c{
-    width: 60px;
-    margin-bottom: 2px;
-    margin-left: 5px;
-}
-#c:hover{
-    position: relative;
-    animation-name: giro;
-    animation-duration: 0.3s;
-}
-
 
 /*Terceira parte*/
 
@@ -217,17 +143,6 @@ span a:hover{
     animation-name: giro;
     animation-duration: 0.5s;
 }
-#contato h2{
-    color: rgb(255, 0, 76);
-    font-size: 30px;
-    margin: 1%;
-    text-align: right;
-}
-#cavaleiro{
-    align-items: right;
-    height: 90px;
-}
-
 
 /*Quarta parte*/
 
@@ -260,24 +175,6 @@ footer a:hover{
  
 }
 
-
-/*Animações*/
-@keyframes giro{
-    0% {transform: rotateZ(0deg);}
-    25% {transform: rotateZ(20deg);}
-    50% {transform: rotateZ(0deg);}
-    75% {transform: rotateZ(-20deg);}
-    100% {transform: rotateZ(0deg);}
-}
-@keyframes onda{
-    0% {transform: rotate(0deg);}
-    20% {transform: rotate(2deg);}
-    50% {transform: rotate(0deg);}
-    80% {transform: rotate(-2deg);}
-    100% {transform: rotate(0deg);}
-}
-
-
 /*Responsividade*/
 @media screen and (max-width: 450px){
     ul{
@@ -293,9 +190,6 @@ footer a:hover{
     h2{
        font-size: 10px; 
     }
-    #eu{
-        width: 200px;
-    }
     #inicio{
         width: 70%;
     }
@@ -306,14 +200,4 @@ footer a:hover{
         margin-left: 85%;
         margin-top: 99%;
     }
-    #js{
-        width: 60px;
-    }
-    #py{
-        width: 55px;
-    }
-    #c{
-        width: 50px;
-    }
-
 }
