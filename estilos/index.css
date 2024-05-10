@@ -96,6 +96,7 @@ section{
 }
 .texto h2{
     color: white;
+    padding-right: 15%;
 }
 #menu h2{
     color: rgb(255, 0, 76);
