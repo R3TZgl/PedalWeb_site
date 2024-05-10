@@ -65,7 +65,7 @@ li a:hover{
 .servicos li{
     color: rgb(255, 0, 76);
     display: block;
-    text-shadow: 2px 2px 30px black;
+    text-shadow: 3px 3px 10px black;
 }
 #first{
     background-color: rgb(255, 255, 255);
