@@ -101,9 +101,6 @@ section{
     padding: 1%;
     box-shadow: -8px 8px 50px rgba(155, 5, 5, 0.158);
 }
-#underline{
-    display: block;
-}
 .texto h2{
     color: white;
     padding-right: 15%;
