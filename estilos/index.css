@@ -115,11 +115,7 @@ p{
 #logo{
     width: 300px;
     margin: 2%;
-    border-radius: 12;
-}
-#eu:hover{
-    animation: onda 0.2s ;
-    box-shadow: -1px 1px 30px rgba(250, 94, 255, 0.336);
+    border-radius: 12%;
 }
 .img{
     display: flex;
@@ -127,6 +123,9 @@ p{
     width: 50%;
     margin-left: 1%;
     box-shadow: 3px 1px 10px rgba(0, 0, 0, 0.616);
+}
+.imagem{
+    display: flex;
 }
 span a{
     color: rgb(255, 0, 76);
