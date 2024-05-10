@@ -33,6 +33,13 @@ li{
 #inicio:hover{
     width: 98%;
 }
+#servicos h2{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin: 1%;
+    margin-right: 10%;
+    border-bottom: outset 3px black;
+}
 #scroll{
     position: fixed;
     text-align: right;
