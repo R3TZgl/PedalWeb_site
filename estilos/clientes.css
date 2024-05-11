@@ -198,5 +198,6 @@ footer a:hover{
     #scroll{
         margin-left: 85%;
         margin-top: 99%;
+        display: none;
     }
 }
