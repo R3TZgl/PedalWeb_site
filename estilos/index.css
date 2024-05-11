@@ -49,9 +49,12 @@ li{
     color: rgba(255, 255, 255, 0.438);
     text-decoration: none;
     font-family: 'Staatliches', cursive;
+    transition: 0.5s;
 }
 #scroll:hover{
     color: rgba(255, 255, 255, 0.801);
+    font-size: 110px;
+    transition: 0.5s;
 }
 
 ul{

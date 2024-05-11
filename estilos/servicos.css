@@ -42,14 +42,17 @@ li{
     color: rgba(255, 255, 255, 0.438);
     text-decoration: none;
     font-family: 'Staatliches', cursive;
+    transition: 0.5s;
 }
 #scroll:hover{
     color: rgba(255, 255, 255, 0.801);
+    font-size: 110px;
+    transition: 0.5s;
 }
 
 ul{
     width: 25%;
-}
+}   
 li a{
     margin: 1%;
     font-size: 30px;
@@ -63,7 +66,7 @@ li a:hover{
 }
 
 .servicos li{
-    color: rgb(200 234 255);
+    color: rgb(255, 229, 229);
     display: block;
     text-shadow: 1px 1px 3px black;
 }

@@ -1,6 +1,3 @@
-html{
-    scroll-behavior: smooth;
-}
 *{
     padding: 0;
     margin: 0;
@@ -33,20 +30,6 @@ li{
 #inicio:hover{
     width: 98%;
 }
-#scroll{
-    position: fixed;
-    text-align: right;
-    margin-left: 95%;
-    margin-top: 25%;
-    font-size: 100px;
-    color: rgba(255, 255, 255, 0.438);
-    text-decoration: none;
-    font-family: 'Staatliches', cursive;
-}
-#scroll:hover{
-    color: rgba(255, 255, 255, 0.801);
-}
-
 ul{
     width: 25%;
 }
@@ -187,9 +170,5 @@ footer a:hover{
     }
     .imagem{
         display: list-item;
-    }
-    #scroll{
-        margin-left: 85%;
-        margin-top: 99%;
     }
 }
